@@ -3,5 +3,3 @@
 </div>
 
 https://img.shields.io/badge/ВК-blue?logo=VK&logoColor=blue?style=flat&logo=appveyor
-https://img.shields.io/badge/Porn-Hub-orange
-https://img.shields.io/badge/YouTube-red
